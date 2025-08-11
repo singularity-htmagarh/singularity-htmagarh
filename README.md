@@ -1,4 +1,4 @@
-# Hi, I'm Heath 👋
+# Hi, I'm Himanshu 👋
 
 ## About Me
 Data Scientist & Marketing Analytics Expert | Passionate about turning data into insights and driving business growth.
