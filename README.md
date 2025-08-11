@@ -1,7 +1,7 @@
-# Hi, I'm Himanshu 👋
+# Hi, I'm Himanshu Thapa👋
 
 ## About Me
-Data Scientist & Marketing Analytics Expert | Passionate about turning data into insights and driving business growth.
+Data Science Expert with 8+ years of experience in developing and deploying advanced ML/AI solutions in finance, marketing and other industries. Strong background in building and deploying machine learning models, including supervised, unsupervised and deep learning techniques. Skilled in Python, SQL, R and Cloud Technologies. Proven ability to align machine learning initiatives with business objectives to drive revenue growth and strategic decision-making. 
 
 ## Skills
 - Python | SQL | Tableau | Google Analytics | Marketing Mix Modeling
