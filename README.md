@@ -1,11 +1,16 @@
 # Hi, I'm Himanshu Thapa👋
 
-## About Me
-Data Science Expert with 8+ years of experience in developing and deploying advanced ML/AI solutions in finance, marketing and other industries. Strong background in building and deploying machine learning models, including supervised, unsupervised and deep learning techniques. Skilled in Python, SQL, R and Cloud Technologies. Proven ability to align machine learning initiatives with business objectives to drive revenue growth and strategic decision-making. 
+## AI/ML | Strategy & Consulting | Media & Marketing Science
+Data Science and Machine Learning Expert with 8+ years of experience delivering advanced ML/AI solutions across finance, marketing and customer analytics domains. Specialized in developing end-to-end machine learning pipelines for customer journey optimization, including propensity scoring, churn prediction and media attribution. Skilled in supervised, unsupervised and deep learning techniques to uncover behavioral patterns, segment customers, and optimize engagement across digital touchpoints. Proven track record of aligning ML initiatives with business goals to drive revenue growth, enhance campaign performance, and enable data-driven strategic decisions.
 
 ## Skills
-- Python | SQL | Tableau | Google Analytics | Marketing Mix Modeling
-- Machine Learning | Experimentation & A/B Testing | Attribution Modeling
+- Digital Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
+- Data Analysis & Visualization: SQL, Python, R, Google Analytics, Adobe Analytics, Tableau
+- Paid Media Tools: Google and Meta Ads, Search Ads 360, YouTube, Programmatic (TradeDesk), Mixpanel
+- Customer Insights & Segmentation: CRM analysis, Customer Data Platform, Audience Segmentation, Personalization
+- Marketing Technologies: Adobe Marketing Cloud, Google Marketing Platform, Google Tag Manager, Adobe Launch
+- Optimization and Automation: Data Pipelines, Campaign Automation, Marketing Automation
+- Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research 
 
 ## Projects
 - [Marketing Attribution Model](https://github.com/HeathThapa/marketing-attribution)
