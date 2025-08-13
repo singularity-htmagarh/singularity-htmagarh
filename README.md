@@ -13,8 +13,9 @@ Professional with 8+ years of experience transforming complex marketing, media, 
 - Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research 
 
 ## Projects
-- [Marketing Attribution Model](https://github.com/HeathThapa/marketing-attribution)
-- [Customer Segmentation Dashboard](https://github.com/HeathThapa/customer-segmentation)
+- Data Science Portfolio (https://github.com/singularity-htmagarh/data-science-portfolio)
+- [Marketing Mix Modeling](https://github.com/singularity-htmagarh/marketing-mix-modeling)
+- [Customer Attribution Modeling](https://github.com/singularity-htmagarh/attribution_modeling)
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/HeathThapa)
