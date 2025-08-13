@@ -1,7 +1,7 @@
 # Hi, I'm Himanshu Thapa👋
 
 ## AI/ML | Strategy & Consulting | Media & Marketing Science
-Data Science and Machine Learning Expert with 8+ years of experience delivering advanced ML/AI solutions across finance, marketing and customer analytics domains. Specialized in developing end-to-end machine learning pipelines for customer journey optimization, including propensity scoring, churn prediction and media attribution. Skilled in supervised, unsupervised and deep learning techniques to uncover behavioral patterns, segment customers, and optimize engagement across digital touchpoints. Proven track record of aligning ML initiatives with business goals to drive revenue growth, enhance campaign performance, and enable data-driven strategic decisions.
+Professional with 8+ years of experience transforming complex marketing, media, and customer data into actionable strategies that drive measurable business impact. Proven expertise in advanced analytics, CRM performance measurement, attribution modeling, segmentation, and marketing optimization. Strong record of leading cross-functional teams, collaborating with marketing, data science, and technology stakeholders, and delivering insights that accelerate revenue growth, improve retention, and optimize channel effectiveness across Email, SMS, Paid Media, and Clienteling.
 
 ## Skills
 - Digital Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
