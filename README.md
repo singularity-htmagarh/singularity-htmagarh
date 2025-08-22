@@ -15,7 +15,7 @@ Professional with 8+ years of experience transforming complex marketing, media, 
 ## Projects
 - Data Science Portfolio (https://github.com/singularity-htmagarh/data-science-portfolio)
 - [Marketing Mix Modeling](https://github.com/singularity-htmagarh/marketing-mix-modeling)
-- [Customer Attribution Modeling](https://github.com/singularity-htmagarh/attribution_modeling)
+- [Customer Attribution Modeling](https://github.com/singularity-htmagarh/Marketing_Science_Projects/tree/main/attribution_modeling)
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/HeathThapa)
