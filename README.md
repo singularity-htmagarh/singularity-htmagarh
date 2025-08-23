@@ -21,7 +21,7 @@ Professional with 8+ years of experience transforming complex marketing, media, 
 - [LinkedIn](https://linkedin.com/in/HeathThapa)
 - [YouTube](https://www.youtube.com/@HeathThapa)
 
-![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeathThapa&show_icons=true)
+<!-- ![Heath's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeathThapa&show_icons=true)
 
 <!--
 **singularity-htmagarh/singularity-htmagarh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
