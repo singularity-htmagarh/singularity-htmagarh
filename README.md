@@ -1,7 +1,13 @@
 # Hi, I'm Heath Thapa👋
 
 ## Quantitative Insights | Media & Marketing Science | Finance
-Professional with 8+ years of experience transforming complex marketing, media, and customer data into actionable strategies that drive measurable business impact. Proven expertise in advanced analytics, CRM performance measurement, attribution modeling, segmentation, and marketing optimization. Strong record of leading cross-functional teams, collaborating with marketing, data science, and technology stakeholders, and delivering insights that accelerate revenue growth, improve retention, and optimize channel effectiveness across Email, SMS, Paid Media, and Clienteling.
+
+• Data Science and Quantitative Analysis
+• Media Research, Reports and Forecasts
+• Decision Analytics
+• Predictive Modeling
+• Business/Brand Value Growth
+• Data mining/Visualization tools
 
 ## Skills
 - Digital Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
