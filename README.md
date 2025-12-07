@@ -10,12 +10,9 @@
 • Data mining/Visualization tools
 
 ## Skills
-- Digital Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
 - Data Analysis & Visualization: SQL, Python, R, Google Analytics, Adobe Analytics, Tableau
-- Paid Media Tools: Google and Meta Ads, Search Ads 360, YouTube, Programmatic (TradeDesk), Mixpanel
-- Customer Insights & Segmentation: CRM analysis, Customer Data Platform, Audience Segmentation, Personalization
-- Marketing Technologies: Adobe Marketing Cloud, Google Marketing Platform, Google Tag Manager, Adobe Launch
 - Optimization and Automation: Data Pipelines, Campaign Automation, Marketing Automation
+- Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
 - Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research 
 
 ## Projects
