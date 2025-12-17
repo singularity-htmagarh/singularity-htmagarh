@@ -1,19 +1,15 @@
 # Hi, I'm Heath Thapa👋
 
-## Quantitative Insights | Media & Marketing Science | Finance
+## Quantitative Finance | AI & ML | Media & Financial Services
 
-• Data Science and Quantitative Analysis
-• Media Research, Reports and Forecasts
-• Decision Analytics
-• Predictive Modeling
-• Business/Brand Value Growth
-• Data mining/Visualization tools
+ML/AI data science Leader with 8+ years driving digital product growth. I specialize in transforming complex datasets into clear, actionable strategies – whether in SaaS platforms, capital markets, financial services or digital media ecosystems. Expert at partnering with product, engineering and marketing to translate metrics into roadmap decisions.
+
+Interest: Financial Services, Investments, Economics, Capital Markets, Internet Media & Advertising
 
 ## Skills
-- Data Analysis & Visualization: SQL, Python, R, Google Analytics, Adobe Analytics, Tableau
-- Optimization and Automation: Data Pipelines, Campaign Automation, Marketing Automation
-- Marketing Analytics: Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
-- Sector Focus: Digital Transformation, Technology, Media & Advertising, Investment Research 
+- Optimization and Automation: Data Pipelines, Machine Learning Automation
+- Marketing Analytics: ML Ops, AI/ML., Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
+- Data Analysis & Visualization: SQL, Python, R, SAS, Google Analytics, Tableau
 
 ## Projects
 - Data Science Portfolio (https://github.com/singularity-htmagarh/data-science-portfolio)
