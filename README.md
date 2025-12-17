@@ -13,8 +13,9 @@ Interest: Financial Services, Investments, Economics, Capital Markets, Internet 
 
 ## Projects
 - Data Science Portfolio (https://github.com/singularity-htmagarh/data-science-portfolio)
-- [Marketing Mix Modeling](https://github.com/singularity-htmagarh/marketing-mix-modeling)
+<!-- - [Marketing Mix Modeling](https://github.com/singularity-htmagarh/marketing-mix-modeling)
 - [Customer Attribution Modeling](https://github.com/singularity-htmagarh/Marketing_Science_Projects/tree/main/attribution_modeling)
+-->
 
 ## Connect
 - [LinkedIn](https://linkedin.com/in/HeathThapa)
