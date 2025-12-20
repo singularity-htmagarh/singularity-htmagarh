@@ -12,6 +12,8 @@ Interest: Financial Services, Investments, Economics, Capital Markets, Internet 
 - Data Analysis & Visualization: SQL, Python, R, SAS, Google Analytics, Tableau
 
 ## Projects
+- Quantitative Finance (https://github.com/singularity-htmagarh/quant-finance)
+- ETFs Portfolio Tracker (https://github.com/singularity-htmagarh/etf-portfolio-tracker)
 - Data Science Portfolio (https://github.com/singularity-htmagarh/data-science-portfolio)
 <!-- - [Marketing Mix Modeling](https://github.com/singularity-htmagarh/marketing-mix-modeling)
 - [Customer Attribution Modeling](https://github.com/singularity-htmagarh/Marketing_Science_Projects/tree/main/attribution_modeling)
