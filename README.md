@@ -8,7 +8,7 @@ Interest: Financial Services, Investments, Economics, Capital Markets, Internet 
 
 ## Skills
 - Optimization and Automation: Data Pipelines, Machine Learning Automation
-- Marketing Analytics: ML Ops, AI/ML., Customer Journey Optimization, Media Mix Modeling, Attribution, Causal Inference
+- Financial And Customer Analytics: ML Ops, Asset Management, Financial Modeling, Forecasting, Trading Strategies, Media Mix Modeling, Causal Inference
 - Data Analysis & Visualization: SQL, Python, R, SAS, Google Analytics, Tableau
 
 ## Projects
