@@ -7,6 +7,7 @@ ML/AI data science Leader with 8+ years driving digital product growth. I specia
 Interest: Financial Services, Investments, Economics, Capital Markets, Internet Media & Advertising
 
 ## Skills
+- Quantitative Methods: Factor Models, Time-Series Analysis, Regression, Decision Trees, Random Forests, Sentiment Analysis, TimeSeries Forecasting, Optimization, Cluster Analysis, Measurement Plan
 - Optimization and Automation: Data Pipelines, Machine Learning Automation
 - Financial And Customer Analytics: ML Ops, Asset Management, Financial Modeling, Forecasting, Trading Strategies, Media Mix Modeling, Causal Inference
 - Data Analysis & Visualization: SQL, Python, R, SAS, Google Analytics, Tableau
