@@ -2,7 +2,7 @@
 
 ## Quantitative Finance | AI & ML | Media & Financial Services
 
-ML/AI data science Leader with 8+ years driving digital product growth. I specialize in transforming complex datasets into clear, actionable strategies – whether in SaaS platforms, capital markets, financial services or digital media ecosystems. Expert at partnering with product, engineering and marketing to translate metrics into roadmap decisions.
+Quantitative researcher with 8+ years of experience applying machine learning, econometrics, and optimization techniques across financial markets, asset management, and enterprise-scale datasets. Strong expertise in factor research, portfolio analytics, risk modeling, and time-series forecasting. Skilled in Python, SQL, ML Ops, and cloud platforms. Demonstrated ability to collaborate with investment teams, enhance quantitative frameworks, and support data-driven decision-making. Passionate about quantitative investing and model-driven portfolio construction.
 
 Interest: Financial Services, Investments, Economics, Capital Markets, Internet Media & Advertising
 
