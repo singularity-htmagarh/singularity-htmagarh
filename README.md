@@ -1,4 +1,4 @@
-# Hi, I'm Himanshu Thapa👋
+# Hi, I'm Heath Thapa👋
 
 ## Quantitative Finance | AI & ML | Media & Financial Services
 
