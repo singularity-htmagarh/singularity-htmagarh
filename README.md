@@ -1,10 +1,20 @@
 # Hi, I'm Heath Thapa👋
 
-## Quantitative Finance | AI & ML | Media & Financial Services
+## Agentic AI| Quantitative Finance | Machine Learning | Cloud Computing
 
-Quantitative researcher with 8+ years of experience applying machine learning, econometrics, and optimization techniques across financial markets, asset management, and enterprise-scale datasets. Strong expertise in factor research, portfolio analytics, risk modeling, and time-series forecasting. Skilled in Python, SQL, ML Ops, and cloud platforms. Demonstrated ability to collaborate with investment teams, enhance quantitative frameworks, and support data-driven decision-making. Passionate about quantitative investing and model-driven portfolio construction.
+Heath Thapa is a quantitative architect and AI leader dedicated to transforming complex data into a competitive market advantage.  His work spans building Machine Learning, Generative AI systems, factor-based research, portfolio optimization and factor signal extraction using LLMs, with strong focus on translating research into scalable, real-world products. Specialing in the deployment of Agentic AI frameworks and RAG-based LLMs, Heath transforms structured and unstructured financial data into actionable investment signals.
 
-Interest: Financial Services, Investments, Economics, Capital Markets, Internet Media & Advertising
+Areas of focus include:
+• Generative AI & Agentic AI Systems
+• Large Language Models (LLMs) & RAG Architectures
+• AI Copilots & Workflow Automation
+• Machine Learning & Deep Learning
+• Financial Economics & Quantitative Research
+• Asset & Wealth Management Analytics
+• Capital Markets Intelligence
+• Portfolio Analytics & Forecasting
+• MLOps, Cloud Engineering & AI Governance
+• Product Analytics, SaaS & Mobile Intelligence
 
 ## Skills
 - Quantitative Methods: Factor Models, Time-Series Analysis, Regression, Decision Trees, Random Forests, Sentiment Analysis, TimeSeries Forecasting, Optimization, Cluster Analysis, Measurement Plan
