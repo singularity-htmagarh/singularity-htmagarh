@@ -6,11 +6,11 @@ Quantitative Engineer with 8+ years building and deploying quantitative decision
   
 KEY STRENGTHS
   
-●        Alpha & Factor Research, Systematic Trading
-●        Portfolio Analytics & Optimization
-●        Risk Modeling & Exposure Analysis
-●        Attribution & Incrementality Performance
-●        Derivatives Pricing
+- Alpha & Factor Research, Systematic Trading
+- Portfolio Analytics & Optimization
+- Risk Modeling & Exposure Analysis
+- Attribution & Incrementality Performance
+- Derivatives Pricing
  
 His experience spans AI-powered investment research, portfolio analytics, factor investing, financial document intelligence, and automation of investment workflows. By combining deep expertise in data science, machine learning, and capital markets, Heath develops scalable solutions that enhance research productivity, improve decision-making, and create measurable business value across wealth management and asset management organizations.
 
