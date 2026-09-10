@@ -2,19 +2,17 @@
 
 ## Agentic AI| Quantitative Finance | Machine Learning | Cloud Computing
 
-Heath Thapa is a quantitative architect and AI leader dedicated to transforming complex data into a competitive market advantage.  His work spans building Machine Learning, Generative AI systems, factor-based research, portfolio optimization and factor signal extraction using LLMs, with strong focus on translating research into scalable, real-world products. Specialing in the deployment of Agentic AI frameworks and RAG-based LLMs, Heath transforms structured and unstructured financial data into actionable investment signals.
-
-Areas of focus include:
-• Generative AI & Agentic AI Systems
-• Large Language Models (LLMs) & RAG Architectures
-• AI Copilots & Workflow Automation
-• Machine Learning & Deep Learning
-• Financial Economics & Quantitative Research
-• Asset & Wealth Management Analytics
-• Capital Markets Intelligence
-• Portfolio Analytics & Forecasting
-• MLOps, Cloud Engineering & AI Governance
-• Product Analytics, SaaS & Mobile Intelligence
+Quantitative Engineer with 8+ years building and deploying quantitative decision engines for wealth and asset management. Expert in portfolio optimization, risk/performance analytics, and scalable model delivery for advisor/client platforms. Strong Python + API/service development with ML/LLM Ops and cloud-native deployment. Applied Gen AI/LLMs to modernize research and operations, including evaluation/monitoring and safe rollout. Built AI agents and n8n automation to connect data, models and business workflows end-to-end. 
+  
+KEY STRENGTHS
+  
+●        Alpha & Factor Research, Systematic Trading
+●        Portfolio Analytics & Optimization
+●        Risk Modeling & Exposure Analysis
+●        Attribution & Incrementality Performance
+●        Derivatives Pricing
+ 
+His experience spans AI-powered investment research, portfolio analytics, factor investing, financial document intelligence, and automation of investment workflows. By combining deep expertise in data science, machine learning, and capital markets, Heath develops scalable solutions that enhance research productivity, improve decision-making, and create measurable business value across wealth management and asset management organizations.
 
 ## Skills
 - Quantitative Methods: Factor Models, Time-Series Analysis, Regression, Decision Trees, Random Forests, Sentiment Analysis, TimeSeries Forecasting, Optimization, Cluster Analysis, Measurement Plan
