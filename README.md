@@ -1,9 +1,9 @@
-# Greetings & Salutations, I'm Himanshu Thapa, and this is my github portfolio
-
-## Agentic AI| Quantitative Finance | Machine Learning | Cloud Computing
+# Greetings & Salutations, I'm Himanshu Thapa 
 
 Agentic AI Lead and Data Scientist with 8+ years building and deploying quantitative decision engines for wealth and asset management. Expert in portfolio optimization, risk/performance analytics, and scalable model delivery for advisor/client platforms. Strong Python + API/service development with ML/LLM Ops and cloud-native deployment. Applied Gen AI/LLMs to modernize research and operations, including evaluation/monitoring and safe rollout. Built AI agents and n8n automation to connect data, models and business workflows end-to-end. 
   
+## Agentic AI| Quantitative Finance | Machine Learning | Cloud Computing
+
 KEY STRENGTHS
   
 - Quantitative Research for Capital Markets
