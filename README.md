@@ -1,4 +1,4 @@
-# Hi, I'm Heath Thapa👋
+# Hi, I'm Himanshu Thapa👋
 
 ## Agentic AI| Quantitative Finance | Machine Learning | Cloud Computing
 
