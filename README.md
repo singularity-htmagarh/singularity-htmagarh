@@ -6,24 +6,26 @@ Agentic AI Lead and Data Scientist with 8+ years building and deploying quantita
   
 KEY STRENGTHS
   
-- Alpha & Factor Research, Systematic Trading
-- Portfolio Analytics & Optimization
-- Risk Modeling & Exposure Analysis
-- Attribution & Incrementality Performance
-- Derivatives Pricing
+- Quantitative Research for Capital Markets
+- Advanced ML & GenAI Modeling
+- Algorithmic Trading & Strategy Optimization
+- Market & Alternative Data Engineering
+- Model Validation and Back-Testing
+- Stakeholder Communication & Technical Leadership
  
 His experience spans AI-powered investment research, portfolio analytics, factor investing, financial document intelligence, and automation of investment workflows. By combining deep expertise in data science, machine learning, and capital markets, Heath develops scalable solutions that enhance research productivity, improve decision-making, and create measurable business value across wealth management and asset management organizations.
 
 ## Skills
-- Quantitative Methods: Factor Models, Time-Series Analysis, Regression, Decision Trees, Random Forests, Sentiment Analysis, TimeSeries Forecasting, Optimization, Cluster Analysis, Measurement Plan
-- Optimization and Automation: Data Pipelines, Machine Learning Automation
-- Financial And Customer Analytics: ML Ops, Asset Management, Financial Modeling, Forecasting, Trading Strategies, Media Mix Modeling, Causal Inference
-- Data Analysis & Visualization: SQL, Python, R, SAS, Google Analytics, Tableau
+- Generative & Agentic AI: RAG design and optimization, LangGraph, LangChain, Multi-agent and tool-calling workflows, prompt engineering, embeddings and vector databases (Chroma), GPT, Claude, Llama, LLM evaluation and benchmarking (hallucination, faithfulness, retrieval accuracy)
+- Machine Learning & Statistics: PyTorch, scikit-learn, XGBoost, transformers, deep learning, time-series forecasting, statistical modeling, model tuning, validation and back-testing.
+- MLOps & Engineering: Modular Python pipelines, MLflow, DVC, Prefect, Django, FastAPI, Docker, Kubernetes, CI/CD, model deployment
+- Data & Cloud: Advanced SQL, Python, PySpark, R, Pandas, NumPy, DuckDB, PostgreSQL, AWS, Databricks, Bloomberg, FactSet, LSEG Refinitiv
+
 
 ## Projects
 - Quantitative Finance (https://github.com/singularity-htmagarh/quant-finance)
-- ETFs Performance Tracker (https://github.com/singularity-htmagarh/etf-portfolio-tracker)
 - Data Science Portfolio (https://github.com/singularity-htmagarh/data-science-portfolio)
+- ETFs Performance Tracker (https://github.com/singularity-htmagarh/etf-portfolio-tracker)
 <!-- - [Marketing Mix Modeling](https://github.com/singularity-htmagarh/marketing-mix-modeling)
 - [Customer Attribution Modeling](https://github.com/singularity-htmagarh/Marketing_Science_Projects/tree/main/attribution_modeling)
 -->
