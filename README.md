@@ -1,4 +1,4 @@
-# Hi, I'm Himanshu Thapa👋
+# Greetings & Salutations, I'm Himanshu Thapa, and this is my github portfolio
 
 ## Agentic AI| Quantitative Finance | Machine Learning | Cloud Computing
 
